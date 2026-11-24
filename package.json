@@ -1,0 +1,1 @@
+{"description":"Writes exactly one warm smile emoji to /output/entry.txt for make.fun's One Emoji, One Smile bounty.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-0xkianno-one-emoji-one-smile-5470751f","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
